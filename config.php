@@ -1,6 +1,14 @@
 <?php
 /**
-* Default config settings for Tax Rate Updater
+  * Tax Rate Updater plugin for Craft CMS
+  *
+  * Default config settings for Tax Rate Updater
+  *
+  * @author    Nathaniel Hammond - @nfourtythree - webdna
+  * @copyright Copyright (c) 2017 webdna
+  * @link      https://webdna.co.uk
+  * @package   TaxRateUpdater
+  * @since     1.0.0
 */
 return array(
   'states' => array(

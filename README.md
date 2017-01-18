@@ -59,4 +59,4 @@ Some things to do, and ideas for potential features:
 
 * [See Releases](https://github.com/webdna/taxrateupdater/releases)
 
-Brought to you by [webdna](http://webdna.co.uk)
+Brought to you by [webdna](https://webdna.co.uk)
