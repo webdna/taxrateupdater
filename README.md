@@ -1,6 +1,6 @@
 # Tax Rate Updater plugin for Craft CMS
 
-Updating Craft Commerce US tax rates from the Zip Tax API
+Updating Craft Commerce US tax rates from the [Zip Tax API](http://zip-tax.com/)
 
 ## Installation
 
@@ -23,11 +23,11 @@ It will create / update Tax Rates for all states specified in the config, using 
 
 You will require an API key from Zip Tax. Once you have signed up and retrieved your key, head over to the plugin settings page in the control panel, enter you key and hit save.
 
-To see an example of the config please check in the plugin folder in the `config.php`.
+To see an example of the config please check in the plugin folder in the [config.php](https://github.com/webdna/taxrateupdater/blob/master/config.php).
 
 You can override this config in your craft config folder with a file named `taxrateupdater.php`. This file should having the following format:
 
-```
+```php
 <?php
 
   return array(
